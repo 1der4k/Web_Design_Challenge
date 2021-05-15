@@ -4,4 +4,14 @@ body{
 
 h1{
     color: darkred;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-size: 45px;
 }
+
+h3{
+    color: darkred;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-variant: small-caps;
+
